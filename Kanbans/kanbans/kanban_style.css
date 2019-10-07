@@ -1,0 +1,47 @@
+body {
+	font-family:Arial;
+}
+ 
+h2 {
+	margin:5px;
+}
+
+input[type=text]{
+	margin:5px;
+	width: 70%;
+}
+
+input[type=button] {
+	margin:10px
+}  
+
+.container{
+	width: 12%;
+	float:left;
+	clear: right;
+	margin:10px; 
+	border-radius: 5px;
+}
+.sortable { 
+	list-style-type: none; 
+	margin:0; 
+	padding:2px; 
+	min-height:30px; 
+	border-radius: 5px;
+}
+.sortable li { 
+	margin: 3px 3px 3px 3px; 
+	padding: 0.4em; 
+	padding-left: 1.5em; 
+	font-size: 1.4em; 
+	height: 18px;
+}
+.sortable li span { 
+	position: absolute; 
+	margin-left: -1.3em; 
+}
+ 
+.card {
+	background-color:white;
+	border-radius:3px;
+}
