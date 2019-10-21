@@ -8,6 +8,6 @@ Il faut à présent paramétrer la base de données, pour cela il vous suffit de
 
 Il vous suffit de paramétrer la base de donnée selon vos données.
 
-Enfin il vous faudra éxecuté un script sql fourni (script.sql) afin de créer les tables nécessaires à la l’application dans la base de donnée. 
+Puis il vous faudra éxecuté un script sql fourni (script.sql) afin de créer les tables nécessaires à l’application dans la base de donnée. 
  
 Finalement, il vous suffit de vous connecter à votre serveur web /projet pour accéder à la page index.php afin de vous enregistrer et d’utiliser l’application. 
